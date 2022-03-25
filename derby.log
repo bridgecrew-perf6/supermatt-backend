@@ -1,12 +1,12 @@
 ----------------------------------------------------------------
-Tue Mar 22 22:55:55 EAT 2022:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-b333-43d8-0000027ae640 
-on database directory memory:C:\Dennis\Projects\STS\simple-supermatt\d6da90bc-7311-40b3-be43-f319680d063d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+Wed Mar 23 05:20:10 EAT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-b493-0a9e-000002b22298 
+on database directory memory:C:\Dennis\Projects\STS\deploy\supermatt-backend\e18958e1-94b6-41ec-88f0-1ec32070f3b5 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/C:/Users/Dennis.Njenga/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Eclipse Adoptium
-java.runtime.version=17.0.1+12
-user.dir=C:\Dennis\Projects\STS\simple-supermatt
-os.name=Windows 10
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_321-b07
+user.dir=C:\Dennis\Projects\STS\deploy\supermatt-backend
+os.name=Windows 11
 os.arch=amd64
 os.version=10.0
 derby.system.home=null
